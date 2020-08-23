@@ -1,6 +1,7 @@
-# stack angular firebase debug
+# Stack angular firebase debug
 
+## How to run:
 ```
-npm i
-node index.js
+yarn
+yarn start
 ```
